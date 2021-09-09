@@ -9,7 +9,7 @@
 #define MYFUNC_H_
 #include <string>
 
-std::string myfunc();
+std::string func();
 
 
 #endif /* MYFUNC_H_ */
